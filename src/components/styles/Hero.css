@@ -1,0 +1,4 @@
+.hero-logo {
+    filter: drop-shadow(1px 1px white) drop-shadow(1px -1px white)
+    drop-shadow(-1px 1px white) drop-shadow(-1px -1px white);
+}
